@@ -1,0 +1,6 @@
+rencana baru 
+- membuat tiktok setiap hari
+- javascript
+- node js
+-express js 
+- vlog
