@@ -3,7 +3,11 @@ rencana baru
 - javascript
 * es6 
 * framework JS 
+> vue
 - menambahkan structural data 
+- php
 - node js
 -express js 
 - vlog
+- python
+-
