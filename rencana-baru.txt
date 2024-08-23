@@ -3,7 +3,9 @@ rencana baru
 - javascript
 * es6 
 * framework JS 
-- menambahkan structural data 
+> angular
+>react
+-PHP DASAR
 - node js
 -express js 
 - vlog
