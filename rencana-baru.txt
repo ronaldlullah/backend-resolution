@@ -4,8 +4,7 @@ rencana baru
 * es6 
 * framework JS 
 > vue
-- menambahkan structural data 
-- php
+> react
 - node js
 -express js 
 - vlog
