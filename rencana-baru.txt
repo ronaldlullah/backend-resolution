@@ -3,6 +3,7 @@ rencana baru
 - javascript
 * es6 
 * framework JS 
+- menambahkan structural data 
 - node js
 -express js 
 - vlog
