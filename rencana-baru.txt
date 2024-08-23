@@ -1,6 +1,8 @@
 rencana baru 
 - membuat tiktok setiap hari
 - javascript
+* es6 
+* framework JS 
 - node js
 -express js 
 - vlog
