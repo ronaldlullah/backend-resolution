@@ -3,9 +3,10 @@ rencana baru
 - javascript
 * es6 
 * framework JS 
-> angular
->react
--PHP DASAR
+> vue
+> react
 - node js
 -express js 
 - vlog
+- python
+-
